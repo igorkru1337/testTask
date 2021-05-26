@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="input_password">Введите пароль</string>
+    <string name="confirm_password">Подтвердите пароль</string>
+    <string name="input_second_name">Введите фамилию</string>
+    <string name="input_first_name">Введите имя</string>
+    <string name="edit_birth_date">Выберете дату</string>
+    <string name="date_picker_tag_text">Date Picker</string>
+    <string name="accept">ОК</string>
+    <string name="welcome">Приветствие</string>
+    <string name="registration">Регистрация</string>
+    <string name="Error_message_registration">"Упс, проверьте пожалуйста все поля, где-то допущена ошибка"</string>
+    <string name="password_not_match">Пароль не совпадает</string>
+    <string name="registration_text">РЕГИСТРАЦИЯ</string>
+    <string name="welcome_message">Добро пожаловать %s!</string>
+</resources>
